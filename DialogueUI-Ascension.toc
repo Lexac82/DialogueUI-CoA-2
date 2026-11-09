@@ -6,13 +6,12 @@
 
 ## Notes: Dialogue UI 1.0.5 d backported for Wrath 3.3.5a (Interface 30300), including Ascension.
 
-## Author: Peterodox; legacy Ascension adaptation
+## Author: Peterodox; Zero-WoW legacy Ascension adaptation, Lexac improvements
 ## SavedVariables: DialogueUI_DB, DialogueUI_Saves, DialogueUI_Diagnostics
 ## X-Original-Version: 1.0.5 d
 ## X-Original-Project: https://www.curseforge.com/wow/addons/dialogueui
 
 ## IconTexture: Interface\AddOns\DialogueUI-Ascension\Art\Icons\Logo
-
 
 Compatibility.lua
 Diagnostics.lua
